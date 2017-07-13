@@ -9,6 +9,5 @@ Open  the terminal.
 Change to directory where the program file is present.
 
 python3 docbot.py  
-
                Type the above command to execute the code.
 Start the conversation with the DocBot. May be start with  a “Hi” or “Hello” . 
